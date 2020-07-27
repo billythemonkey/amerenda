@@ -1,2 +1,4 @@
-# amerenda
-Started this project for my personal restaurante called 'A Merenda'
+# A Merenda
+
+##This is a personal project to make the website for my owne restaurant called 'A Merenda'
+
