@@ -1,6 +1,5 @@
 # A Merenda
 
-## This is a personal project to make the website for my owne restaurant called 'A Merenda'
+This is a personal project to make the website for my own restaurant called 'A Merenda'. Will be using Vue.js as front-end framework.
 
-This project will be using Vue.js for front-end user experience.
 
